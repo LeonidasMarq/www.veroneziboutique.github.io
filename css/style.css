@@ -16,3 +16,22 @@ body{
     padding: 50px 0;
     font-size: 40px;
 }
+
+.content{
+    display: flex;
+}
+
+.navbar{
+    text-align: center;
+    background-color: #e6aeee;
+    width: 30%;
+}
+
+.articlebar{
+    text-align: center;
+    width: 70%;
+}
+
+h1{
+    color: pink;
+}
