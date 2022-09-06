@@ -23,7 +23,7 @@ body{
 
 .navbar{
     text-align: center;
-    background-color: #e6aeee;
+    background-color: deeppink;
     width: 30%;
 }
 
@@ -34,4 +34,10 @@ body{
 
 h1{
     color: pink;
+}
+
+.footer{
+    background-color: pink;
+    padding: 20px 0;
+    text-align: center;
 }
